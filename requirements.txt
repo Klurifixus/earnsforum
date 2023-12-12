@@ -12,7 +12,6 @@ click==8.1.7
 cloudinary==1.36.0
 colorama==0.4.6
 coverage==7.3.2
-crispy-bootstrap4==2023.1
 cryptography==41.0.4
 defusedxml==0.7.1
 distlib==0.3.7
